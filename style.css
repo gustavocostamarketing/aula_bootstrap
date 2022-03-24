@@ -1,0 +1,49 @@
+.navbar{
+
+    
+}
+
+.nav-item{
+    margin-left: 150px;
+}
+
+.contact1{
+    width: 10px;
+}
+
+#tituloserv{
+    text-align: center;
+}
+
+.img-card{
+    width: 200px;
+    margin: auto;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.title-card{
+    text-align: center;
+}
+
+.card-img{
+    width: 100px;
+}
+
+
+#cards{
+  display: flex;
+  margin: 5px;
+  text-align: center;
+
+}
+
+.card-img-top{
+  opacity: 80%;
+}
+
+#titlesv{
+  text-align: center;
+}
